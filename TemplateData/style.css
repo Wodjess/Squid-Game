@@ -1,12 +1,14 @@
+block{
 background: #FEE7FF;
 background: -moz-linear-gradient(left, #FEE7FF 0%, #EDE8FF 100%);
 background: -webkit-linear-gradient(left, #FEE7FF 0%, #EDE8FF 100%);
 background: linear-gradient(to right, #FEE7FF 0%, #EDE8FF 100%);
-
-#demotext {
+}
+demotext {
 color: #444444;
 text-shadow: 1px 0px 1px #CCCCCC, 0px 1px 1px #EEEEEE, 2px 1px 1px #CCCCCC, 1px 2px 1px #EEEEEE, 3px 2px 1px #CCCCCC, 2px 3px 1px #EEEEEE, 4px 3px 1px #CCCCCC, 3px 4px 1px #EEEEEE, 5px 4px 1px #CCCCCC, 4px 5px 1px #EEEEEE, 6px 5px 1px #CCCCCC, 5px 6px 1px #EEEEEE, 7px 6px 1px #CCCCCC;
 color: #444444;
+ background-color: #FEE7FF
 }
 
 .webgl-content * {border: 0; margin: 0; padding: 0}
