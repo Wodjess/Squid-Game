@@ -1,5 +1,5 @@
 ____
-# :scream::scream: Squid Game In your browser!!! Play now!!:scream::scream:
+# :hot_face::scream: Squid Game In your browser!!! Play now!!:scream::hot_face:
 ____
-# :scream::scream:  https://wodjess.github.io/Squid-Game/ :scream::hot_face:
+# :hot_face::scream:  https://wodjess.github.io/Squid-Game/ :scream::hot_face:
 ____
